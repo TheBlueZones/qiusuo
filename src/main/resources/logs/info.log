@@ -1,0 +1,110 @@
+[11:38:48:996] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:55) - Starting ForumApplication using Java 1.8.0_342 on LAPTOP-A3BV65F7 with PID 9920 (E:\prgraming\java\projiect\forum\forum\target\classes started by 30144 in E:\prgraming\java\projiect\forum\forum)
+[11:38:49:054] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:640) - The following 1 profile is active: "dev"
+[11:38:49:878] [INFO] - org.springframework.data.repository.config.RepositoryConfigurationDelegate.multipleStoresDetected(RepositoryConfigurationDelegate.java:262) - Multiple Spring Data modules found, entering strict repository configuration mode
+[11:38:49:882] [INFO] - org.springframework.data.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn(RepositoryConfigurationDelegate.java:132) - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+[11:38:49:922] [INFO] - org.springframework.data.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn(RepositoryConfigurationDelegate.java:201) - Finished Spring Data repository scanning in 9 ms. Found 0 Redis repository interfaces.
+[11:38:50:615] [INFO] - org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize(TomcatWebServer.java:108) - Tomcat initialized with port(s): 8086 (http)
+[11:38:50:628] [INFO] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) - Initializing ProtocolHandler ["http-nio-8086"]
+[11:38:50:629] [INFO] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) - Starting service [Tomcat]
+[11:38:50:629] [INFO] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) - Starting Servlet engine: [Apache Tomcat/9.0.65]
+[11:38:50:766] [INFO] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) - Initializing Spring embedded WebApplicationContext
+[11:38:50:767] [INFO] - org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.prepareWebApplicationContext(ServletWebServerApplicationContext.java:292) - Root WebApplicationContext: initialization completed in 1644 ms
+[11:38:51:984] [INFO] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) - Starting ProtocolHandler ["http-nio-8086"]
+[11:38:52:005] [INFO] - org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:220) - Tomcat started on port(s): 8086 (http) with context path ''
+[11:38:52:027] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:61) - Started ForumApplication in 3.549 seconds (JVM running for 6.206)
+[11:41:26:344] [INFO] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[11:41:26:345] [INFO] - org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:525) - Initializing Servlet 'dispatcherServlet'
+[11:41:26:347] [INFO] - org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:547) - Completed initialization in 2 ms
+[11:49:34:557] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:55) - Starting ForumApplication using Java 1.8.0_342 on LAPTOP-A3BV65F7 with PID 4624 (E:\prgraming\java\projiect\forum\forum\target\classes started by 30144 in E:\prgraming\java\projiect\forum\forum)
+[11:49:34:570] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:640) - The following 1 profile is active: "dev"
+[11:49:35:371] [INFO] - org.springframework.data.repository.config.RepositoryConfigurationDelegate.multipleStoresDetected(RepositoryConfigurationDelegate.java:262) - Multiple Spring Data modules found, entering strict repository configuration mode
+[11:49:35:374] [INFO] - org.springframework.data.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn(RepositoryConfigurationDelegate.java:132) - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+[11:49:35:408] [INFO] - org.springframework.data.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn(RepositoryConfigurationDelegate.java:201) - Finished Spring Data repository scanning in 7 ms. Found 0 Redis repository interfaces.
+[11:49:36:093] [INFO] - org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize(TomcatWebServer.java:108) - Tomcat initialized with port(s): 8086 (http)
+[11:49:36:107] [INFO] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) - Initializing ProtocolHandler ["http-nio-8086"]
+[11:49:36:107] [INFO] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) - Starting service [Tomcat]
+[11:49:36:108] [INFO] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) - Starting Servlet engine: [Apache Tomcat/9.0.65]
+[11:49:36:228] [INFO] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) - Initializing Spring embedded WebApplicationContext
+[11:49:36:230] [INFO] - org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.prepareWebApplicationContext(ServletWebServerApplicationContext.java:292) - Root WebApplicationContext: initialization completed in 1591 ms
+[11:49:37:479] [INFO] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) - Starting ProtocolHandler ["http-nio-8086"]
+[11:49:37:506] [INFO] - org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:220) - Tomcat started on port(s): 8086 (http) with context path ''
+[11:49:37:543] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:61) - Started ForumApplication in 3.541 seconds (JVM running for 5.517)
+[11:49:59:005] [INFO] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[11:49:59:006] [INFO] - org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:525) - Initializing Servlet 'dispatcherServlet'
+[11:49:59:008] [INFO] - org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:547) - Completed initialization in 2 ms
+[11:50:41:900] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:55) - Starting ForumApplication using Java 1.8.0_342 on LAPTOP-A3BV65F7 with PID 7352 (E:\prgraming\java\projiect\forum\forum\target\classes started by 30144 in E:\prgraming\java\projiect\forum\forum)
+[11:50:41:914] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:640) - The following 1 profile is active: "dev"
+[11:50:42:740] [INFO] - org.springframework.data.repository.config.RepositoryConfigurationDelegate.multipleStoresDetected(RepositoryConfigurationDelegate.java:262) - Multiple Spring Data modules found, entering strict repository configuration mode
+[11:50:42:742] [INFO] - org.springframework.data.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn(RepositoryConfigurationDelegate.java:132) - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+[11:50:42:773] [INFO] - org.springframework.data.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn(RepositoryConfigurationDelegate.java:201) - Finished Spring Data repository scanning in 8 ms. Found 0 Redis repository interfaces.
+[11:50:43:402] [INFO] - org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize(TomcatWebServer.java:108) - Tomcat initialized with port(s): 8086 (http)
+[11:50:43:412] [INFO] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) - Initializing ProtocolHandler ["http-nio-8086"]
+[11:50:43:413] [INFO] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) - Starting service [Tomcat]
+[11:50:43:414] [INFO] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) - Starting Servlet engine: [Apache Tomcat/9.0.65]
+[11:50:43:515] [INFO] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) - Initializing Spring embedded WebApplicationContext
+[11:50:43:516] [INFO] - org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.prepareWebApplicationContext(ServletWebServerApplicationContext.java:292) - Root WebApplicationContext: initialization completed in 1541 ms
+[11:50:44:720] [INFO] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) - Starting ProtocolHandler ["http-nio-8086"]
+[11:50:44:743] [INFO] - org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:220) - Tomcat started on port(s): 8086 (http) with context path ''
+[11:50:44:774] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:61) - Started ForumApplication in 3.395 seconds (JVM running for 5.635)
+[11:50:55:117] [INFO] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[11:50:55:117] [INFO] - org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:525) - Initializing Servlet 'dispatcherServlet'
+[11:50:55:119] [INFO] - org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:547) - Completed initialization in 2 ms
+[11:55:30:916] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:55) - Starting ForumApplication using Java 1.8.0_342 on LAPTOP-A3BV65F7 with PID 16044 (E:\prgraming\java\projiect\forum\forum\target\classes started by 30144 in E:\prgraming\java\projiect\forum\forum)
+[11:55:30:931] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:634) - No active profile set, falling back to 1 default profile: "default"
+[11:55:31:700] [INFO] - org.springframework.data.repository.config.RepositoryConfigurationDelegate.multipleStoresDetected(RepositoryConfigurationDelegate.java:262) - Multiple Spring Data modules found, entering strict repository configuration mode
+[11:55:31:704] [INFO] - org.springframework.data.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn(RepositoryConfigurationDelegate.java:132) - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+[11:55:31:735] [INFO] - org.springframework.data.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn(RepositoryConfigurationDelegate.java:201) - Finished Spring Data repository scanning in 7 ms. Found 0 Redis repository interfaces.
+[11:55:32:372] [INFO] - org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize(TomcatWebServer.java:108) - Tomcat initialized with port(s): 8086 (http)
+[11:55:32:382] [INFO] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) - Initializing ProtocolHandler ["http-nio-8086"]
+[11:55:32:383] [INFO] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) - Starting service [Tomcat]
+[11:55:32:383] [INFO] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) - Starting Servlet engine: [Apache Tomcat/9.0.65]
+[11:55:32:486] [INFO] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) - Initializing Spring embedded WebApplicationContext
+[11:55:32:487] [INFO] - org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.prepareWebApplicationContext(ServletWebServerApplicationContext.java:292) - Root WebApplicationContext: initialization completed in 1488 ms
+[11:55:33:644] [INFO] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) - Starting ProtocolHandler ["http-nio-8086"]
+[11:55:33:665] [INFO] - org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:220) - Tomcat started on port(s): 8086 (http) with context path ''
+[11:55:33:696] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:61) - Started ForumApplication in 3.279 seconds (JVM running for 5.235)
+[11:55:41:906] [INFO] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[11:55:41:906] [INFO] - org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:525) - Initializing Servlet 'dispatcherServlet'
+[11:55:41:909] [INFO] - org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:547) - Completed initialization in 3 ms
+[11:57:04:567] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:55) - Starting ForumApplication using Java 1.8.0_342 on LAPTOP-A3BV65F7 with PID 19148 (E:\prgraming\java\projiect\forum\forum\target\classes started by 30144 in E:\prgraming\java\projiect\forum\forum)
+[11:57:04:583] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:634) - No active profile set, falling back to 1 default profile: "default"
+[11:57:05:369] [INFO] - org.springframework.data.repository.config.RepositoryConfigurationDelegate.multipleStoresDetected(RepositoryConfigurationDelegate.java:262) - Multiple Spring Data modules found, entering strict repository configuration mode
+[11:57:05:373] [INFO] - org.springframework.data.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn(RepositoryConfigurationDelegate.java:132) - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+[11:57:05:406] [INFO] - org.springframework.data.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn(RepositoryConfigurationDelegate.java:201) - Finished Spring Data repository scanning in 7 ms. Found 0 Redis repository interfaces.
+[11:57:06:050] [INFO] - org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize(TomcatWebServer.java:108) - Tomcat initialized with port(s): 8086 (http)
+[11:57:06:063] [INFO] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) - Initializing ProtocolHandler ["http-nio-8086"]
+[11:57:06:064] [INFO] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) - Starting service [Tomcat]
+[11:57:06:064] [INFO] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) - Starting Servlet engine: [Apache Tomcat/9.0.65]
+[11:57:06:186] [INFO] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) - Initializing Spring embedded WebApplicationContext
+[11:57:06:188] [INFO] - org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.prepareWebApplicationContext(ServletWebServerApplicationContext.java:292) - Root WebApplicationContext: initialization completed in 1535 ms
+[11:57:07:615] [INFO] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) - Starting ProtocolHandler ["http-nio-8086"]
+[11:57:07:644] [INFO] - org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:220) - Tomcat started on port(s): 8086 (http) with context path ''
+[11:57:07:672] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:61) - Started ForumApplication in 3.604 seconds (JVM running for 5.352)
+[11:57:16:691] [INFO] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[11:57:16:692] [INFO] - org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:525) - Initializing Servlet 'dispatcherServlet'
+[11:57:16:694] [INFO] - org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:547) - Completed initialization in 2 ms
+[11:57:16:827] [INFO] - com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:110) - forum_datasource - Starting...
+[11:57:18:479] [INFO] - com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:123) - forum_datasource - Start completed.
+[12:01:14:158] [INFO] - com.zaxxer.hikari.HikariDataSource.close(HikariDataSource.java:350) - forum_datasource - Shutdown initiated...
+[12:01:14:171] [INFO] - com.zaxxer.hikari.HikariDataSource.close(HikariDataSource.java:352) - forum_datasource - Shutdown completed.
+[12:01:20:385] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:55) - Starting ForumApplication using Java 1.8.0_342 on LAPTOP-A3BV65F7 with PID 14180 (E:\prgraming\java\projiect\forum\forum\target\classes started by 30144 in E:\prgraming\java\projiect\forum\forum)
+[12:01:20:400] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:640) - The following 1 profile is active: "dev"
+[12:01:21:171] [INFO] - org.springframework.data.repository.config.RepositoryConfigurationDelegate.multipleStoresDetected(RepositoryConfigurationDelegate.java:262) - Multiple Spring Data modules found, entering strict repository configuration mode
+[12:01:21:174] [INFO] - org.springframework.data.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn(RepositoryConfigurationDelegate.java:132) - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+[12:01:21:205] [INFO] - org.springframework.data.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn(RepositoryConfigurationDelegate.java:201) - Finished Spring Data repository scanning in 7 ms. Found 0 Redis repository interfaces.
+[12:01:21:839] [INFO] - org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize(TomcatWebServer.java:108) - Tomcat initialized with port(s): 8086 (http)
+[12:01:21:850] [INFO] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) - Initializing ProtocolHandler ["http-nio-8086"]
+[12:01:21:850] [INFO] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) - Starting service [Tomcat]
+[12:01:21:851] [INFO] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) - Starting Servlet engine: [Apache Tomcat/9.0.65]
+[12:01:21:955] [INFO] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) - Initializing Spring embedded WebApplicationContext
+[12:01:21:956] [INFO] - org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.prepareWebApplicationContext(ServletWebServerApplicationContext.java:292) - Root WebApplicationContext: initialization completed in 1488 ms
+[12:01:23:222] [INFO] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) - Starting ProtocolHandler ["http-nio-8086"]
+[12:01:23:245] [INFO] - org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:220) - Tomcat started on port(s): 8086 (http) with context path ''
+[12:01:23:264] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:61) - Started ForumApplication in 3.392 seconds (JVM running for 5.719)
+[12:01:43:410] [INFO] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[12:01:43:410] [INFO] - org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:525) - Initializing Servlet 'dispatcherServlet'
+[12:01:43:412] [INFO] - org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:547) - Completed initialization in 2 ms
+[12:01:43:546] [INFO] - com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:110) - forum_datasource - Starting...
+[12:01:44:933] [INFO] - com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:123) - forum_datasource - Start completed.
+[12:28:09:632] [INFO] - com.zaxxer.hikari.HikariDataSource.close(HikariDataSource.java:350) - forum_datasource - Shutdown initiated...
+[12:28:09:647] [INFO] - com.zaxxer.hikari.HikariDataSource.close(HikariDataSource.java:352) - forum_datasource - Shutdown completed.
